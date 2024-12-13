@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  background-color: rgb(229, 26, 26);
+}
+#true{
+  color:greenyellow
+}
+#false{
+  color: #f1e9e9;
+}
